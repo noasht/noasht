@@ -2,11 +2,6 @@
 
 I am **Noa**, a software engineering student passionate about technology, problem-solving, and creative development. Here, you will find a variety of projects—from my first year of studies to more recent ones
 
-### 🔥 What Can You Find Here?
-
-- **📌 Academic Projects** – Projects and assignments from my studies.
-- **📌 Collaborations** – Projects I have contributed to.
-
 ---
 
 ### 🚀 Technologies & Tools
