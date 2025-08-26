@@ -3,11 +3,19 @@
 # 👋 Hi, I'm Noa
 
 
-I am a **Software Engineering Student** with strong curiosity and a passion for technology, problem solving, and continuous learning.
+I am a **Software Engineering Student** with strong curiosity.  
 
-I enjoy diving deep into topics like AI and systems, and my goal is to keep growing as a developer while building meaningful projects.
+Passionate about technology, problem solving, and continuous learning.  
+
+Enjoy diving deep into topics like AI.  
+
+Continuously developing my skills by working on meaningful projects
+
+
 
 ---
+
+
 ## 🛠️ Technologies & Tools
 <p>
   <!-- Languages -->
@@ -35,11 +43,9 @@ I enjoy diving deep into topics like AI and systems, and my goal is to keep grow
 
 ----->
 
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=noasht&show_icons=true&theme=default&hide_border=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noasht&layout=compact&theme=default&hide_border=true" height="150" />
 </p>
-
----
-</div> 
