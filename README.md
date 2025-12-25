@@ -43,9 +43,11 @@ Continuously developing my skills by working on meaningful projects
 
 ----->
 
+<!--
 
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=noasht&show_icons=true&theme=default&hide_border=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noasht&layout=compact&theme=default&hide_border=true" height="150" />
 </p>
+-->
