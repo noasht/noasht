@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Noa
 
 
-I am a **Software Engineering Student** with strong curiosity.  
+I am a **Junior Software Engineer** with strong curiosity.  
 
 Passionate about technology, problem solving, and continuous learning.  
 
